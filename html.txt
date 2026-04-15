@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guapimirim</title>
+    <link rel="stylesheet" href="guapimirim.css">
+    <link rel="shortcut icon" href="favicon_io (2)/android-chrome-192x192.png" type="image/x-icon">
+</head>
+<body>
+   
+    <header>
+    <h1>Você conhece Guapimirim ?</h1>
+        
+    <img src="guapimirim_semfundo.fwpequeno.png" alt="escudo da cidade">
+    
+    </header> 
+   
+    <p id="principal"> Um pouco sobre a história e centros turísticos desse pequeno município localizado na região serrana do Rio de Janeiro ! A cidade do Dedo de Deus! </p>
+      <span id="portal"> <p>Portal da cidade</p> <img src="1_guapimirim_portico_002-25734674.png" alt="portal guapi"></span>
+      
+  
+     
+    
+
+   <main> 
+    <section>
+       <h1>Pontos Turísticos</h1>
+       
+       <nav id="dedo"><img src="1_dedo_de_deus_guapimirim_002-23206926.jpg"></nav>
+
+       <p><strong>Guapimirim</strong>, no Rio de Janeiro, é um refúgio de natureza exuberante, famoso por suas dezenas de cachoeiras de águas cristalinas e trilhas no Parque Nacional da Serra dos Órgãos (PARNASO). Os principais destaques incluem o Vale da Lua, Poço Verde, a icônica vista do Dedo de Deus e o Museu Von Martius, ideal para o ecoturismo. 
+        </p>
+
+        
+       
+        <article>
+               
+               <h2>Principais Cachoeiras e Poços
+               </h2>
+
+               <nav id="secundário"> <img src="concordia.jpg" alt="concórdia"> </nav>
+                
+               <ul> <li><a href="https://visiteguapimirim.com.br/vale-da-lua/ " target="_blank">Vale da lua</a> - Conhecido pelas formações rochosas peculiares, é um ponto muito procurado, com acesso por trilha própria ou por sítios particulares.</li>
+
+                <li><a href="https://visiteguapimirim.com.br/poco-verde/" target="_blank">Poço Verde</a> - Localizado no PARNASO (Sede Guapimirim), oferece uma trilha leve de cerca de 900 metros, ideal para banho em águas cristalinas.</li>
+
+                <li><a href="https://visiteguapimirim.com.br/poco-do-padre-escorrega/" target="_blank">Cachoeira do Escorrega</a> -  Ótima opção para famílias, com fácil acesso e poços seguros.</li>
+
+                <li><a href="https://www.sitioberrodagua.com.br/cascata-do-garraf%C3%A3o" target="_blank">Cachoeira da Barreira e Garrafão</a> - Outras opções populares na região, com cenários de Mata Atlântica.</li>
+
+                <li><a href="https://visiteguapimirim.com.br/travessia-da-concordia/" target="_blank">Cachoeira da Concórdia e Poço das Esmeraldas</a> - Refúgios mais reservados com águas transparentes, recomendados para quem busca tranquilidade em meio à mata.</li>
+                 </ul>  
+                
+
+                
+
+                <h2>Natureza e Mirantes</h2>
+                
+                <ul>
+               
+                    <li><a href="https://visiteguapimirim.com.br/parque-nacional-serra-dos-orgaos/" target="_blank">Parque Nacional da Serra dos Órgãos (PARNASO - Sede Guapimirim)</a> - Abriga diversas trilhas, o Museu Von Martius (na antiga Fazenda Barreira) e a famosa Cachoeira do Véu da Noiva.</li>
+                    
+                    
+
+                <li><a href="https://visiteguapimirim.com.br/mirante-do-soberbo/" target="_blank">Mirante do Soberbo</a> - Localizado próximo à divisa com Teresópolis, oferece uma vista deslumbrante da Baía de Guanabara e do Dedo de Deus.</li>
+
+                <li><a href="https://visiteguapimirim.com.br/dedo-de-deus/" target="_blank">Dedo de Deus e Escalavrado</a> - Formações geológicas icônicas que atraem montanhistas e escaladores para o rapel e trekking</li>
+
+                   </ul>
+
+                <nav id="terciário"> <img src="mirante.webp"> </nav>
+            
+
+            
+
+               
+
+               <aside>
+                       <h1>História</h1>
+
+    <p> 
+        Até o século XVII, Guapimirim era habitada pelos
+índios timbiras que, com a chegada dos portugueses,
+subiram a serra e descobriram o Rio Guapi-Mirim.
+Nossa Senhora D’Ajuda de Aguapei-Mirim foi seu
+primeiro nome, quando fundada em 1674. Era
+passagem obrigatória para quem se dirigisse à Serra
+dos Órgãos. </p>
+
+<P>A história de Guapimirim está relacionada com a
+de Magé, município do qual se emancipou recentemente. Data dos
+primeiros tempos coloniais do Brasil o desbravamento da região de
+Magé. 
+</P>
+
+<p>Em 1565, Simão da Mota edificou sua moradia no Morro da
+Piedade, próximo do qual, ainda hoje, existe o porto de mesmo nome, a
+poucos quilômetros da atual sede municipal. Alguns anos depois, Simão
+da Mota, com outros portugueses e inúmeros escravos, transferiu-se
+para a localidade Magepe-Mirim, de onde se originou a atual cidade de
+Magé. A povoação foi elevada à categoria de freguesia em 1696.
+Próximo dali também desenvolveu-se, a partir de 1643, a localidade de
+Nossa Senhora da Guia de Pacobaíba, reconhecida como freguesia em
+1755. </p>
+
+<p>Devido ao esforço dos colonizadores e à fertilidade do solo, ambas
+Magepe-Mirim e Guia de Pacobaíba gozaram de uma situação invejável
+no período colonial. Tanto numa quanto noutra, o elemento negro,
+introduzido em grande número, muito contribuiu para o
+desenvolvimento da agricultura e elevação do nível econômico local. Em
+1789, Magé foi elevada à categoria de vila, com território constituído de
+terras desmembradas do município de Santana de Macacu e da cidade
+do Rio de Janeiro, inclusive as ilhas do arquipélago de Paquetá, na Baía
+de Guanabara. </p>
+
+<p>Em 1857, foram-lhe atribuídos foros de cidade.
+Para que se avalie a importância desse município, durante o
+segundo império, foi construída em suas terras a primeira estrada de
+ferro da América do Sul. Inaugurada em 1854, a Estrada de Ferro Mauá
+ligava as localidades de Guia de Pacobaíba e Fragoso, numa extensão de
+14,5km. D. Pedro II, quando passou pelo lugar, ficou tão impressionado
+com sua beleza natural que criou um pedágio a ser cobrado de todo
+visitante que desejasse ver o local, hoje conhecido como Barreira. Com
+a abolição da escravatura, houve considerável êxodo dos antigos
+escravos, ocasionando terrível crise econômica. Esse fato, aliado à
+insalubridade da região, fez com que desaparecessem as grandes</p>
+
+<p>plantações, periódicas ou permanentes. O abandono das terras
+provocou a obstrução dos rios que cortam quase toda a baixada do
+território municipal, alagando-a. Daí originou-se o grassamento da
+malária, que reduziu a população local e paralisou por várias décadas o
+desenvolvimento econômico da região.
+Em 1926, foi construída a Estação Ferroviária de Guapimirim e, a
+partir dela, as primeiras construções urbanas. Atualmente esta estrada
+de ferro liga Guapimirim, Magé e Gramacho. 
+</p>
+
+
+
+</aside>
+
+
+</article>                               
+
+
+
+
+</section>
+
+<footer>Criado por Breno Santos Daumas</footer>
+
+
+
+   </main>
+
+
+
+
+
+
+
+
+
+
+
+   </main>
+
+
+
+</body>
+</html>

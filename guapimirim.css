@@ -1,0 +1,252 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Gabarito:wght@400..900&display=swap');
+
+
+:root { --cor0:#034001;
+        --cor1:#488C03;
+        --cor2:#97BF04;
+        --cor3:#D2D904;
+        --cor4:#F2F2F2;
+}
+
+* { margin: 0;
+    padding: 0;
+    
+
+}
+
+
+
+header { background-image: linear-gradient(to bottom,#034001,#488C03);
+    color: #F2F2F2;
+    text-shadow: 2px 2px 0px black;
+    height: 200px;
+    line-height: 100px;
+    text-align: center;
+
+}
+
+header > h1 { font-size: 50px;
+              padding-top: 20px;
+              
+
+}
+
+
+body {
+    background-image: linear-gradient(to bottom, #A1D6FF, #FFFFFF); 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    min-height: 100vh;           
+    margin: 0;                   
+}
+
+
+
+
+
+
+
+nav#home { background-color: #97BF04;
+           padding: 3px;
+           box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.508);
+           border-radius: 0px 0px 5px
+}
+
+nav > a { color: #000000;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 2px 2px;
+
+}
+
+nav > a:hover { background-color:#034001;
+    color:#F2F2F2;
+    
+}
+
+.container-portal {
+    text-align: center; 
+    width: 100%;
+}
+
+p#portal {
+    display: table;      /* faz a largura ser igual  ao texto */
+    margin: 50px auto 10px auto; /* Centraliza a caixa na tela */
+    background-image: linear-gradient(to right,#D2D904,transparent);
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 50px;
+    font-family: 'Archivo Black', sans-serif;
+    border-radius: 10px;
+}
+
+#portal2 img {
+    display: block;        /* Garante que a imagem se comporte bem */
+    margin: 0 auto;        /* Centraliza a imagem do pórtico */
+    max-width: 100%;       /* Evita que ela saia da tela */
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 10px;
+}
+ h1#pontos { background-image: linear-gradient(to right, #D2D904, transparent) ;
+             margin-top: 90px;
+             padding-left: 60px;
+             width: 1100px;
+            margin-left: 80px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            font-size: 50px;
+ }   
+
+ .secao-dedo-de-deus { display:flex;
+
+ }
+
+ .dedo { margin-left: 30px;  
+
+ }
+
+ .dedo img { border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.45);
+
+ }
+
+ .bloco-texto-dedo {  background-color: white;
+                      height: 200px;
+                      text-align: justify;
+                      padding: 10px;
+                      line-height: 30px;
+                      margin-top: 15px;
+                      margin-left: 15px;
+                      padding-right: 40px;
+                      padding-left: 20px;
+                      border-radius: 10px 10px 10px;
+                      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.294)
+
+        
+ }
+
+ 
+ h1#principaiscachoeirasepoços  { background-image: linear-gradient(to right, #D2D904, transparent) ;
+             margin-top: 90px;
+             padding-left: 60px;
+             width: 1100px;
+            margin-left: 80px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            font-size: 50px;
+ }
+
+
+ .secao-cachoeiras-e-poços {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.bloco-texto-concordia { background-color: #FFFFFF;
+                          list-style-position: inside;
+                          height: 200px;
+                          line-height: 30px;
+                          padding-top: 50px;
+                          padding-left:20px; 
+                          padding-right: 10px;
+                          border-radius: 10px 10px 10px;
+                          box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.385);
+           
+}
+
+.concórdia img { margin-left: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.459);
+    margin-top: -20px;
+    
+}
+
+.naturezasemirantes { background-image: linear-gradient(to right, #D2D904, transparent) ;
+             margin-top: 90px;
+             padding-left: 60px;
+             width: 1100px;
+            margin-left: 80px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            font-size: 50px;
+
+
+}
+
+.secaonaturezasemirantes { display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    
+}
+
+
+.bloco-texto-mirante { background-color: #FFFFFF;
+                       text-align: justify;
+                       list-style-position: inside;
+                       width: 1000px;
+                       margin-top: 20px;
+                       padding-top: 30px;
+                       padding-bottom: 50px;
+                       padding-left: 20px;
+                       padding-right: 10px;
+                       border-radius: 10px 10px 10px;
+                       box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.303);
+
+}
+
+.mirante img { margin-left: 30px;
+            box-shadow: 5px 5px 5px  rgba(0, 0, 0, 0.413);
+            border-radius: 10px;
+
+}
+
+
+footer {  background-color: #488C03;
+    margin-top: 100px;
+    color: #F2F2F2;
+    text-align: center;
+
+}
+
+.Historia { background-image: linear-gradient(to right, #D2D904, transparent) ;
+             margin-top: 90px;
+             padding-left: 60px;
+             width: 1100px;
+            margin-left: 80px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            font-size: 50px;
+
+}
+
+.secaohistoria { display: flex;
+
+}
+
+.fotomuseu img{ margin-left: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.516);
+
+
+}
+
+.bloco-texto-historia { background-color: #F2F2F2;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 20px;
+    text-indent: 40px;
+    border-radius: 10px 10px 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.549);
+
+}
+
+
+
+
+ 
